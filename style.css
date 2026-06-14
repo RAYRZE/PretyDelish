@@ -50,6 +50,9 @@ body {
     display: flex;
     padding: 12px;
     gap: 12px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 .order-container {
     display: flex;
